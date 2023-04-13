@@ -7,6 +7,7 @@ https://youtu.be/odQXLF9SrDM
 ---
 ## Week 2
 Code Walkthrough Repeats
-
 https://youtu.be/8HVydV-xuNA
 
+Kangaroo Grasshopper Bee
+https://youtu.be/qOvQ4XOvbEc
