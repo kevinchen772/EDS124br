@@ -7,5 +7,6 @@ https://user-images.githubusercontent.com/110594050/229996145-d4791443-c75a-4419
 ---
 ## Week 2
 Code Walkthrough Repeats
+
 https://user-images.githubusercontent.com/110594050/231662964-a7ea3af6-6948-40e5-98dd-6d3007ac91bf.mp4
 
