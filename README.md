@@ -16,3 +16,6 @@ https://youtu.be/qOvQ4XOvbEc
 ## Week 3
 Code Walkthrough Mouse Octagon
 https://youtu.be/lmRLEOyZhvI
+
+Code Walkthrough Monkey Banana Game
+https://youtu.be/Z8vNfTbNcxE
