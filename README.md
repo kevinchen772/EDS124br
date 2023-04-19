@@ -11,3 +11,8 @@ https://youtu.be/8HVydV-xuNA
 
 Kangaroo Grasshopper Bee
 https://youtu.be/qOvQ4XOvbEc
+
+---
+## Week 3
+Code Walkthrough Mouse Octagon
+https://youtu.be/lmRLEOyZhvI
