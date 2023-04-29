@@ -19,3 +19,9 @@ https://youtu.be/lmRLEOyZhvI
 
 Code Walkthrough Monkey Banana Game
 https://youtu.be/Z8vNfTbNcxE
+
+
+---
+## Week 4
+Code Walkthrough drawing triangle, square, and Pentagon
+https://youtu.be/valMMkWCYSA
