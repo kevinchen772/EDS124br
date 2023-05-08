@@ -25,3 +25,8 @@ https://youtu.be/Z8vNfTbNcxE
 ## Week 4
 Code Walkthrough drawing triangle, square, and Pentagon
 https://youtu.be/valMMkWCYSA
+
+---
+## Week 5
+Code Walkthrough Conditional Loop
+https://youtu.be/X8uBMkeMcLc
