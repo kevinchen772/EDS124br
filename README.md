@@ -30,3 +30,9 @@ https://youtu.be/valMMkWCYSA
 ## Week 5
 Code Walkthrough Conditional Loop
 https://youtu.be/X8uBMkeMcLc
+
+
+---
+## Week 6
+Code Walkthrough If Else
+https://youtu.be/mWWefJPxxaM
