@@ -36,3 +36,9 @@ https://youtu.be/X8uBMkeMcLc
 ## Week 6
 Code Walkthrough If Else
 https://youtu.be/mWWefJPxxaM
+
+
+---
+## Week 7
+Code Walkthrough Nested If else
+https://youtu.be/Cf-HjXkCaDQ
