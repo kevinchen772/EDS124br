@@ -42,3 +42,8 @@ https://youtu.be/mWWefJPxxaM
 ## Week 7
 Code Walkthrough Nested If else
 https://youtu.be/Cf-HjXkCaDQ
+
+---
+## Week 8
+Code Walkthrough compunded conditional
+https://youtu.be/-7vXQ-b4AJw
