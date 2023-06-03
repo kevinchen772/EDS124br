@@ -47,3 +47,9 @@ https://youtu.be/Cf-HjXkCaDQ
 ## Week 8
 Code Walkthrough compunded conditional
 https://youtu.be/-7vXQ-b4AJw
+
+
+---
+## Week 9
+Code Walkthrough Paint Picture
+https://youtu.be/RIq6mGYZHVI
