@@ -53,3 +53,8 @@ https://youtu.be/-7vXQ-b4AJw
 ## Week 9
 Code Walkthrough Paint Picture
 https://youtu.be/RIq6mGYZHVI
+
+---
+## Week 10
+Code Walkthrough list
+https://youtu.be/KEdU7rNOAu0
